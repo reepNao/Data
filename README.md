@@ -8,9 +8,9 @@
 
 4-Finally, I started to create my own dataset in a .csv file.
 
-  -I also tried 2 different ways to create my data set.
+    4.1-I also tried 2 different ways to create my data set.
   
-  -The first one is to create it with the same name each time, appending the previous one to the end
+    4.2-The first one is to create it with the same name each time, appending the previous one to the end
   
-  -The second is to create a different file for each insertion with a date tag after the first name
+    4.3-The second is to create a different file for each insertion with a date tag after the first name
   
